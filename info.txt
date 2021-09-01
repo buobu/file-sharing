@@ -1,0 +1,19 @@
+Mongodb email from generator.email
+file-share@jshungtaote.com
+FDFA434ono.
+
+For Email Service 
+Website = sendinblue.com
+Company Name = File Share
+Email = file-share@jshungtaote.com
+Password = FDFA434ono.
+
+Website Hosted Heruko
+Email address: michalgucff@gmail.com
+Password: MICHAL135.
+website link: https://file-sharing-website.herokuapp.com/
+
+github
+Email: michalgucff@gmail.com
+Password: MICHALgucff135.
+Name: Michal
