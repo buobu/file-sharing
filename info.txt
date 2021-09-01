@@ -11,7 +11,9 @@ Password = FDFA434ono.
 Website Hosted Heruko
 Email address: michalgucff@gmail.com
 Password: MICHAL135.
-website link: https://file-sharing-website.herokuapp.com/
+website link: https://file-sharing-wesbite.herokuapp.com
+              https://git.heroku.com/file-sharing-wesbite.git
+
 
 github
 Email: michalgucff@gmail.com
